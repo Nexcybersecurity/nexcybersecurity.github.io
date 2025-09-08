@@ -1,2 +1,2 @@
-# nexcybersecurity..github.io
+# nexcybersecurity.github.io
 Nex IT Consulting services
